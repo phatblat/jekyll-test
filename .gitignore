@@ -7,6 +7,7 @@
 .classpath
 .gradle/
 .idea/
+.jekyll-cache/
 .project
 .rubygems/
 .settings
